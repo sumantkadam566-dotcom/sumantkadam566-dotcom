@@ -23,4 +23,4 @@ Here are a few technologies I've been working with recently:
 
 ### 🔗 Connect with me:
 
-[![linkedin](www.linkedin.com/in/sumant-kadam-735793165)]
+[![LinkedIn Badge](https://img.shields.io/badge/-Sumant%20Kadam-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sumant-kadam-735793165)
