@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there,I'm Sumant kadam 👋
 
-<!--
-**sumantkadam566-dotcom/sumantkadam566-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### A passionate data analyts from SangLI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔭 I’m currently working on github ( learning from skillup online )
+* 🌱 I’m currently learning phython ,SQL,Ms EXCEL, Power BI
+* 👯 I’m looking to collaborate on ...
+* 💬 Ask me about ...
+* 📫 How to reach me: [sumantkadam566@gmail.com](mailto:your-email@example.com)
+* ⚡ Fun fact: ...
+
+---
+
+### 🛠️ My Tech Stack
+
+Here are a few technologies I've been working with recently:
+
+* **Frontend:** HTML5, CSS3, JavaScript, React
+* **Backend:** Node.js, Express, Python
+* **Database:** MongoDB, SQL
+* **Tools:** Git, Docker, VS Code
+
+---
+
+### 🔗 Connect with me:
+
+[![linkedin](www.linkedin.com/in/sumant-kadam-735793165)]([your linkedln url )
