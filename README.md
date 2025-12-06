@@ -1,4 +1,4 @@
-# Hi, I'm Sumant 👋  
+# Hi, I'm Sumant Kadam👋  
 🚀 Data Analyst | SQL • Python • Power BI • Excel
 
 * 🔭 I’m currently working on building my GitHub portfolio with projects in **SQL, Python, Excel VBA, and Power BI**  
