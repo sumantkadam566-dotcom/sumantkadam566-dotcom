@@ -21,6 +21,14 @@ Here are a few technologies I've been working with recently:
 
 ---
 
+### 📜 Certifications
+
+- 🏆 [TechMaster Certificate Program in Analytics](https://courses-in.skillup.online/programcertificates/da56ff69c74f48debe5548a5eadc7772)
+- 🏆 [Big Data 101](https://courses.myclass.skillup.online/certificates/14bdb519b7304dc7ab206e179ea0b170)
+
+
+---
+
 ### 🔗 Connect with me:
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Sumant%20Kadam-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sumant-kadam-735793165)
