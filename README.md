@@ -25,7 +25,8 @@ Here are a few technologies I've been working with recently:
 
 - 🏆 [TechMaster Certificate Program in Analytics](https://courses-in.skillup.online/programcertificates/da56ff69c74f48debe5548a5eadc7772)
 - 🏆 [Big Data 101](https://courses.myclass.skillup.online/certificates/14bdb519b7304dc7ab206e179ea0b170)
-
+- 🏆 [Data Analyst 101](https://simpli.app.link/FIbJaS2eC0b)
+- 🏆 [Business Analytics with Excel](https://simpli.app.link/1s70Nju9B0b)
 
 ---
 
